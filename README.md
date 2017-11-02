@@ -1,4 +1,4 @@
 # hello-world
 hi!
 
-So far, my favorite pizza in New York is Prince Street Pizza.
+My favorite pizza in New York is in New Haven
